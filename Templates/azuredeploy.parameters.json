@@ -1,0 +1,24 @@
+﻿{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+  "parameters": {
+    "eventHubName": {
+      "value": "sjkphub",
+      "metadata": {
+        "description": "The name of the eventhub"
+      }
+    },
+    "eventHubSendPrimaryKey": {
+      "value": "5xLh7HuRwExy2LPPcAIwcRhWRG8xMOgOZOsrcFZrWSY="
+    },
+    "eventHubSendSecondaryKey": {
+      "value": "8BS2rUnCC5N7+/O1/cv1XwKr0bDVRYOJrP2uVx9hDqA="
+    },
+    "eventHubListenPrimaryKey": {
+      "value": "JPGfn810g0Y0bB8DMJiCQaEO3sI2HpplQfgKV/E/8JM="
+    },
+    "eventHubListenSecondaryKey": {
+      "value": "kZ0vKkdmQpGndvDEDvHNmEWH234mDGDKS74vhnJI6zk="
+    }
+  }
+}
