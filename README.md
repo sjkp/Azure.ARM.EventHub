@@ -4,4 +4,4 @@
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-For more information please see my blog post: http://wp.sjkp.dk/azure-resource-manager-templates-for-global-azure-web-app-deployments/
+For more information please see my blog post: http://wp.sjkp.dk/azure-event-hub-with-resource-manager-template/
